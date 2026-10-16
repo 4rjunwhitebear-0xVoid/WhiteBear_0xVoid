@@ -1,0 +1,4 @@
+# WhiteBear Security Suite
+# No third-party Python packages required.
+# Uses Python standard library only.
+
